@@ -1,2 +1,6 @@
 criando um arquivo de texto na pasta 
+<<<<<<< HEAD
 segunda modificação pedida pelo cliente. 
+=======
+adicionando modificação pedida pelo cliente. 
+>>>>>>> 5382553035f90b2fd9692a09744139edb3132f87
